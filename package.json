@@ -21,7 +21,11 @@
         "posix-getopt": "^1.0.0",
         "progbar": "0.1.0",
         "vasync": "^1.6.4",
-        "verror": "^1.7.0"
+        "verror": "^1.7.0",
+
+        "opentracing": "0.12.1",
+        "triton-tracer": "git+https://github.com/joshwilsdon/triton-tracer.git"
+        
     },
     "directories": {
         "bin": "./bin",
